@@ -1,18 +1,18 @@
-ARRAY
+// ARRAY
 
 
-I TASK 
+// I TASK 
 "use strict"
 
-let group = ["Aysel", "Rena", "Terlan"]
-group.shift()
-group.push("Cinara")
-document.write(group)
+let girls = ["Aysel", "Rena", "Terlan"]
+girls.shift()
+girls.push("Cinara")
+document.write(girls)
 
 
 
 
-II TASK
+//II TASK
 "use strict"
 
 let group = ["Aysel", "Rena", "Terlan"]
@@ -22,7 +22,8 @@ document.write(group)
 
 
 
-III TASK
+// III TASK
+
 "use strict"
 // 1 CI VARIANT
 
@@ -31,36 +32,36 @@ let arr = ['New Hope', 'The Empire Strikes Back', 'Return of the Jdi'];
 let cislo = 4
 
 for (let x of arr) {
-    console.log("episode: " + cislo + ` ${x}`);
-    cislo++
+  console.log("episode: " + cislo + ` ${x}`);
+  cislo++
 }
 
 
 
 // 2 ci variant 
 ['New Hope', 'The Empire Strikes Back', 'Return of the Jdi']
-    .forEach((item, index) => {
-        console.log(`episode ${index + 4}: ${item}  `);
-    });
+  .forEach((item, index) => {
+    console.log(`episode ${index + 4}: ${item}  `);
+  });
 
 
-IV TASK
+// IV TASK
 let numbers = prompt("5 ededli reqem yaz");
 
-let split = numbers.split("");
+let split1 = numbers.split("");
 
-let minNumber = split[0];
+let minNumber = split1[0];
 
-for (let x of split) {
+for (let x of split1) {
   if (x < minNumber) {
     minNumber = x;
   }
 }
-console.log(split);
+console.log(split1);
 console.log(minNumber);
 
 
-V TASK
+// V TASK
 "use strict";
 
 // 1 CI VARIANT 
