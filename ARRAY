@@ -1,0 +1,78 @@
+ARRAY
+
+
+I TASK 
+"use strict"
+
+let group = ["Aysel", "Rena", "Terlan"]
+group.shift()
+group.push("Cinara")
+document.write(group)
+
+
+
+
+II TASK
+"use strict"
+
+let group = ["Aysel", "Rena", "Terlan"]
+group[1] = "Classified"
+document.write(group)
+
+
+
+
+III TASK
+"use strict"
+// 1 CI VARIANT
+
+let arr = ['New Hope', 'The Empire Strikes Back', 'Return of the Jdi'];
+
+let cislo = 4
+
+for (let x of arr) {
+    console.log("episode: " + cislo + ` ${x}`);
+    cislo++
+}
+
+
+
+// 2 ci variant 
+['New Hope', 'The Empire Strikes Back', 'Return of the Jdi']
+    .forEach((item, index) => {
+        console.log(`episode ${index + 4}: ${item}  `);
+    });
+
+
+IV TASK
+let numbers = prompt("5 ededli reqem yaz");
+
+let split = numbers.split("");
+
+let minNumber = split[0];
+
+for (let x of split) {
+  if (x < minNumber) {
+    minNumber = x;
+  }
+}
+console.log(split);
+console.log(minNumber);
+
+
+V TASK
+"use strict";
+
+// 1 CI VARIANT 
+let text = '32, 31, 34, 36, 31'
+let split = text.split(',').join(";");
+console.log(split)
+
+
+// 2 ci variant
+let replace = text.replace(/,/g, ';');
+let split2 = replace.split('  ')
+console.log(split2)
+
+
+
