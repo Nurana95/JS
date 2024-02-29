@@ -1,0 +1,80 @@
+// I TASK
+"use strict"
+
+let arr1 = [1, 2, 3, 4, 5];
+let arr2 = [1, 2, 3, 4, 5, 6, 7, 5, 8];
+let arr3 = arr1.concat(arr2);
+
+
+let arr4 = arr3.filter((a, b, c,) => {
+    return c.indexOf(a) === b
+});
+
+console.log(arr3);
+console.log(arr4);
+
+// II TASK
+"use strict"
+let arr1 = [1, 2, 3, 4, 5];
+let arr2 = [1, 2, 3, 4, 5, 6, 7, 5, 8];
+let arr4 = arr2.filter(a => !arr1.includes(a));
+
+
+console.log(arr4)
+
+// III TASK
+"use strict"
+let array = [
+    1, 6, 34, 5, 1, -4, 54, 76, 23,
+    65, 3, 50, 45, 100, 2346, -52,
+    6545, 0, 45, 22,
+];
+array.sort((a, b) => a - b)
+console.log(array)
+
+
+// IV TASK
+"use strict"
+let array = [
+    1, 6, 34, 5, 1, -4, 54, 76, 23,
+    65, 3, 50, 45, 100, 2346, -52,
+    6545, 0, 45, 22,
+];
+let num = array.filter(num => num < 0);
+
+console.log(array)
+console.log(num);
+
+// V TASK
+
+let kebabToUpper = (metn) => metn.toUpperCase();
+let upperCase = kebabToUpper("metni uppercase elya");
+console.log(upperCase)
+
+// VI TASK
+"use strict"
+
+let input = [1, 5, -7, 3, -9, 4, -6, 2];
+let output = input.map(item => item < 0 ? item * -1 : item * 2)
+
+console.log(output);
+// VII TASK
+
+
+"use strict"
+
+let namesArray = [
+    "Alice",
+    "Bob",
+    "Catherine",
+    "David",
+    "Eva",
+    "Andrew",
+    "Frank",
+    "Anna",
+    "George",
+    "Alex",
+];
+let newNames_A = namesArray.filter(name => name.charAt(0).toUpperCase() === 'A');
+console.log(newNames_A)
+
