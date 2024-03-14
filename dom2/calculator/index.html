@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .calculator {
+            background-color: #333;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .display {
+            width: 100%;
+            height: 60px;
+            font-size: 36px;
+            text-align: right;
+            margin-bottom: 20px;
+            border: none;
+            background-color: #666;
+            color: #fff;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        .button {
+            width: 50px;
+            height: 50px;
+            font-size: 24px;
+            margin: 5px;
+            border: none;
+            background-color: #555;
+            color: #fff;
+            cursor: pointer;
+          
+        }
+
+        .button:hover {
+            background-color: #777;
+        }
+
+        .button.double {
+            width: 110px;
+        }
+
+        .button.operation {
+            background-color: #ff9500;
+        }
+
+        .button.operation:hover {
+            background-color: #ffad33;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="calculator">
+        <input class="display" type="text">
+        <input class="button   operation" type="button" value="C">
+        <input class="button  operation" type="button" value="/">
+        <br>
+        <input class="button num" type="button" value="7">
+        <input class="button num" type="button" value="8">
+        <input class="button num" type="button" value="9">
+        <input class="button operation" type="button" value="*">
+        <br>
+        <input class="button  num " type="button" value="4">
+        <input class="button num " type="button" value="5">
+        <input class="button num " type="button" value="6">
+        <input class="button  operation" type="button" value="-">
+        <br>
+        <input class="button num " type="button" value="1">
+        <input class="button num " type="button" value="2">
+        <input class="button num " type="button" value="3">
+        <input class="button operation" type="button" value="+">
+        <br>
+        <input class="button num  double" type="button" value="0">
+        <input class="button" type="button" value=".">
+        <input class="button operation ravno" type="button" value="=">
+    </div>
+
+</body>
+<script src="app.js"></script>
+
+</html>
