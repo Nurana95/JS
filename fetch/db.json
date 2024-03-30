@@ -1,0 +1,25 @@
+{
+    "clothes": [
+        {
+            "id": 1,
+            "name": "Qadın Geyimleri",
+            "description": "TRECKOT",
+            "price": 150,
+            "image": "https://static-basket-02.wbbasket.ru/vol25/wbkids_articles_editor/2190fc0f-1624-4b98-8870-86683093b0d4.jpg"
+        },
+        {
+            "id": 2,
+            "name": "KISI GEYIMLERI",
+            "description": "KISHI KOSTYUMLARI",
+            "price": 80,
+            "image": "https://static.alltime.ru/obj/article/image-blog/Modnyye_muzhskiye_luki/Modnyye_muzhskiye_luki_1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Uwaq geyimleri",
+            "description": "Donlar",
+            "price": 200,
+            "image": "https://flomaster.top/uploads/posts/2022-08/1660726828_1-flomaster-club-p-letnyaya-odezhda-kartinki-dlya-detei-krasi-1.jpg"
+        }
+    ]
+}
