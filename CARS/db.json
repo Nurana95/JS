@@ -1,0 +1,31 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Toyota",
+      "mileage": "50000 km",
+      "price": "$20000",
+      "image": "https://scene7.toyota.eu/is/image/toyotaeurope/CAM0001a_21-2:Large-Landscape?ts=1671185294720&resMode=sharp2&op_usm=1.75,0.3,2,0"
+    },
+    {
+      "id": "2",
+      "name": "BMW",
+      "mileage": "40000 km",
+      "price": "$30000",
+      "image": "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_middle_east/vehicles/altima/MY23/VLP/new/D/altima-intro-new-2880x2048-D-En.jpg.ximg.l_12_h.smart.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Mercedes",
+      "mileage": "60000 km",
+      "price": "$35000",
+      "image": "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_middle_east/vehicles/X-TERRA/Xterravlpplus/D/main-intro-without-text-2880x2048-D.jpg.ximg.l_12_h.smart.jpg"
+    },
+    {
+      "id": "09f9",
+      "name": "y",
+      "mileage": "y",
+      "price": "y"
+    }
+  ]
+}
