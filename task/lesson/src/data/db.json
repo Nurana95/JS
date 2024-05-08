@@ -1,0 +1,54 @@
+{
+    "restaran": [
+        {
+            "id": 1,
+            "name": "La Trattoria",
+            "menu": [
+                {
+                    "name": "Margherita Pizza",
+                    "price": 12.99
+                },
+                {
+                    "name": "Spaghetti Carbonara",
+                    "price": 15.50
+                },
+                {
+                    "name": "Tiramisu",
+                    "price": 8.99
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Sushi Palace",
+            "menu": [
+                {
+                    "name": "Dragon Roll",
+                    "price": 18.75
+                },
+                {
+                    "name": "Miso Soup",
+                    "price": 3.50
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Burger Haven",
+            "menu": [
+                {
+                    "name": "Classic Cheeseburger",
+                    "price": 9.99
+                },
+                {
+                    "name": "Fries",
+                    "price": 4.50
+                },
+                {
+                    "name": "Chocolate Milkshake",
+                    "price": 5.99
+                }
+            ]
+        }
+    ]
+}
