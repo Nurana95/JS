@@ -1,0 +1,22 @@
+.box {
+    background-color: #F4F5F5;
+}
+
+.imgBox {
+    height: 70vh;
+}
+
+.ball {
+    border-radius: 50%;
+    background-color: rgba(36, 5, 242, 1);
+    width: 20px;
+    height: 20px;
+}
+
+.dots {
+    border: 1px solid #b7adfa;
+    border-style: dashed;
+    height: 1px;
+    width: 100%;
+
+}

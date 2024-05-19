@@ -1,0 +1,54 @@
+.bckImg {
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+.bgColor {
+    background-color: rgba(28, 30, 83, 0.5);
+
+}
+
+.blue {
+    background-color: #1C1E53;
+}
+
+.form input {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    padding: 15px;
+    background: transparent;
+    border: 1px solid Grey;
+    border-radius: 5px;
+}
+
+.form button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 15px;
+    background: #FCD980;
+    border: 1px solid Grey;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-weight: bold;
+}
+
+.submit {
+    background: none !important;
+    border: none !important;
+    color: white !important;
+    align-items: center;
+}
+
+.arrow {
+
+    color: white;
+    margin-left: 20px;
+
+}

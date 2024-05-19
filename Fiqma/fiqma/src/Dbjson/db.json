@@ -1,0 +1,182 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "icon": "faUsers",
+            "h1": "Uses Client First",
+            "p": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+        },
+        {
+            "id": 2,
+            "icon": "faUsers",
+            "h1": "Template Customization",
+            "p": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+        },
+        {
+            "id": 3,
+            "icon": "faUsers",
+            "h1": "Template Customization",
+            "p": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+        },
+        {
+            "id": 4,
+            "icon": "faUsers",
+            "h1": "24/7 Support",
+            "p": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+        },
+        {
+            "id": 5,
+            "icon": "faUsers",
+            "h1": "Quick Delivery",
+            "p": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+        },
+        {
+            "id": 6,
+            "icon": "faUsers",
+            "h1": "Hands-on approach",
+            "p": "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
+        }
+    ],
+    "questions": [
+        {
+            "id": "01",
+            "sual": "How much time does it take?",
+            "cavab": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": "02",
+            "sual": "What is your class naming convention?",
+            "cavab": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": "03",
+            "sual": "How do you communicate?",
+            "cavab": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": "04",
+            "sual": "I have a bigger project. Can you handle it?",
+            "cavab": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": "05",
+            "sual": "What is your class naming convention?",
+            "cavab": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+    ],
+    "blog": [
+        {
+            "id": "1",
+            "img": "/7.png",
+            "time": "19 Yan 2022",
+            "h1": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+            "p": "See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract"
+        },
+        {
+            "id": "2",
+            "img": "/8.png",
+            "time": "19 Yan 2022",
+            "h1": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+            "p": "See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract"
+        },
+        {
+            "id": "3",
+            "img": "/9.png",
+            "time": "19 Yan 2022",
+            "h1": "How one Webflow user grew his single person consultancy from $0-100K in 14 months",
+            "p": "See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract"
+        }
+    ],
+    "pricingplans": [
+        {
+            "id": "1",
+            "price": 299,
+            "h1": "Landing Page ",
+            "p": "When you’re ready to go beyond prototyping in Figma, ",
+            "ul": {
+                "li": "All limited links",
+                "li1": "Own analytics platform",
+                "li2": "Chat support",
+                "li3": "Optimize hashtags",
+                "li4": "Unlimited users"
+            }
+        },
+        {
+            "id": "2",
+            "price": 399,
+            "h1": "Website Page ",
+            "p": "When you’re ready to go beyond prototyping in Figma, Webflow’s ready to help. ",
+            "ul": {
+                "li": "All limited links",
+                "li1": "Own analytics platform",
+                "li2": "Chat support",
+                "li3": "Optimize hashtags",
+                "li4": "Unlimited users"
+            }
+        },
+        {
+            "id": "3",
+            "price": 499,
+            "h1": "Complex Project ",
+            "p": "When you’re ready to go beyond prototyping in Figma, ",
+            "ul": {
+                "li": "All limited links",
+                "li1": "Own analytics platform",
+                "li2": "Chat support",
+                "li3": "Optimize hashtags",
+                "li4": "Unlimited users"
+            }
+        }
+    ],
+    "client": [
+        {
+            "id": 1,
+            "h6": "Use Client-first",
+            "h1": "Top agencies and freelancers around the world use Client-first",
+            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+            "img": "10.png"
+        },
+        {
+            "id": 2,
+            "h6": "Free Revision Rounds",
+            "h1": "Get free Revisions and one week of free maintenance",
+            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+            "img": "11.png"
+        },
+        {
+            "id": 3,
+            "h6": "24/7 Support",
+            "h1": "Working with us, you will be getting 24/7 priority support",
+            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+            "img": "12.png"
+        },
+        {
+            "id": 4,
+            "h6": "Quick Delivery",
+            "h1": "Guranteed 1 week delivery for standard five pager website",
+            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+            "img": "13.png"
+        },
+        {
+            "id": 5,
+            "h6": "About us",
+            "h1": "Our designs solve problems",
+            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+            "img": "14.png"
+        },
+        {
+            "id": 6,
+            "h6": "Our Mission",
+            "h1": "Inspire, Innovate, Share",
+            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+            "img": "16.png"
+        },
+        {
+            "id": 7,
+            "h6": "Our Mission",
+            "h1": "Laser focus",
+            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+            "img": "17.png"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+.bgGrey {
+    background-color: #F4F6FC;
+}
+
+.box {
+    background-color: red;
+}
+
+svg {
+    color: blue;
+}
+
+.features h1 {
+
+    width: 50%;
+}
+
+.features {
+    padding-top: 20px;
+    margin: 20px;
+    display: inline-grid;
+    align-items: center;
+    justify-items: center;
+}
